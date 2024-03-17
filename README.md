@@ -1,5 +1,7 @@
 I designed a sun tracking system that updates its position according to the sun. I completed the mechanical, electronic, and software aspects of this thesis and received an AA grade for it.
 
+It generates a reference value based on the analog value received from four LDR sensors and adjusts its position accordingly. Additionally, it sends the current and voltage values produced by the PV panel to the website via the server. This not only increases efficiency but also provides a user-friendly interface.
+
 ![image](https://github.com/cagatay-00/Solar-Tracking-System/assets/63811210/98484965-b010-46da-a278-6fc4480a9bcf)
 
 Schematics
